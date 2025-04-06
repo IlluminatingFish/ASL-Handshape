@@ -1,0 +1,1 @@
+from . import asl_handshape_gcn
